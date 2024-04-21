@@ -2,7 +2,7 @@ writeCode
 
 Q1. Create an userSchema which has fields
 
-- name
+-  
 - username
 - email
 - address {
